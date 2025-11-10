@@ -4,5 +4,5 @@ See related email for download links! Please copy-paste the files you downloaded
 
 ```shapes``` -- folder containing shape files for metro areas and census tracts <br>
 ```acs_data_census_tracts_2012_2020.csv.gz``` -- socio-economic variables for census tracts from the American Community Survey <br>
-```twitter_tract_tract_edgelist.csv``` -- census tract level weighted edgelist based on Twitter mutual followership ties for Boston, New York and Detroit
+```twitter_tract_tract_edgelist.csv``` -- census tract level weighted edgelist based on Twitter mutual followership ties for Boston, New York and Detroit    
 ```places_US_newyork_boston_detroit.parquet``` -- Foursquare POI data for Boston, New York and Detroit
